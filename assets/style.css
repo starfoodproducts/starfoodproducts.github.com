@@ -306,8 +306,14 @@ a:hover {
 .span5 {
   width: 380px;
 }
+.span4-5 {
+  width: 440px;
+}
 .span4 {
   width: 300px;
+}
+.span3-5 {
+  width: 260px;
 }
 .span3 {
   width: 220px;
@@ -317,6 +323,9 @@ a:hover {
 }
 .span2 {
   width: 140px;
+}
+.span1-5 {
+  width: 100px;
 }
 .span1 {
   width: 60px;
