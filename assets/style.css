@@ -5174,6 +5174,15 @@ h6 small {
   font-family: 'Cabin', Verdana, sans-serif;
   color: rgba(255, 255, 255, 0.9);
 }
+.fancy{
+	margin: 10px 0;
+    font-family: 'Lobster', cursive;
+    font-weight: normal;
+    line-height: 20px;
+    text-rendering: optimizelegibility;
+	color: #ad1d28;
+	font-size:11pt;
+}
 code,
 pre {
   background-color: rgba(255, 255, 255, 0.3);
