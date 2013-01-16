@@ -3624,6 +3624,12 @@ input[type="submit"].btn.btn-mini {
   border-color: #ddd #ddd #ddd transparent;
   *border-left-color: #ffffff;
 }
+a.tab-link {
+	color: #ffffff;
+}
+a.tab-link:hover {
+	color: #ad1d28;
+}
 .nav > .disabled > a {
   color: #aaaaaa;
 }
@@ -5182,6 +5188,9 @@ h6 small {
     text-rendering: optimizelegibility;
 	color: #ad1d28;
 	font-size:11pt;
+}
+.table-sections {
+	color: #ad1d28;
 }
 code,
 pre {
