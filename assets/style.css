@@ -686,6 +686,9 @@ h3 small {
 h4 small {
   font-size: 14px;
 }
+.page-title{
+	padding-top:55px;
+}
 .page-header {
   padding-bottom: 9px;
   margin: 20px 0 30px;
